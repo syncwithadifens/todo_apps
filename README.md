@@ -1,7 +1,6 @@
 # todo_apps
 
-![img]("https://github.com/adifens/todo_apps/blob/master/demo/demo.png")
-
+![demo](https://github.com/adifens/todo_apps/blob/master/demo/demo.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
