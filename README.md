@@ -1,6 +1,6 @@
 # todo_apps
 
-![img]("/demo/demo.png")
+![img]("https://github.com/adifens/todo_apps/blob/master/demo/demo.png")
 
 ## Getting Started
 
